@@ -10,4 +10,4 @@
 - 📫 You can reach me at my instagram [@nabielmada](https://instagram.com/nabielmada)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabielmada&layout=compact&theme=vue">
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nabielmada)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nabielmada)](https://github.com/anuraghazra/github-readme-stats)
