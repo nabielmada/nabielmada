@@ -6,7 +6,7 @@
 - ⚡ Excited to create projects and to help others
 - 🌱 I’m currently learning design and code (Web Developer)
 - 😄 I'm natively speak Indonesian and is learning english.
-- 💕 I'm currently fall in love with VueJS and Laravel and the most important is Coffee
+- 💕 I'm currently fall in love with VueJs and NodeJs and the most important is Coffee
 - 📫 You can reach me at my instagram [@nabielmada](https://instagram.com/nabielmada)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabielmada&layout=compact&theme=vue">
