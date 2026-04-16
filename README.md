@@ -25,7 +25,7 @@ Software Engineer | Business System & Mobile Application Specialist
 </a>
 &nbsp;
 <a href="https://linkedin/in/nabielmada" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-0f0c29?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
