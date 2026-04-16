@@ -13,11 +13,11 @@ Software Engineer | Business System & Mobile Application Specialist
 <br/>
 
 <a href="https://alunam.com" target="_blank">
-  <img src="https://img.shields.io/badge/probeorbiter.com-0f0c29?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/alunam.com-0f0c29?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://walltree.id" target="_blank">
-  <img src="https://img.shields.io/badge/probeorbiter.com-0f0c29?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/walltree.id-0f0c29?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://github.com/nabielmada" target="_blank">
