@@ -45,7 +45,7 @@ Software Engineer | Business System & Mobile Application Specialist
   <td>Autonomous AI Web3 Payment Agen</td>
   <td>
     <a href="https://github.com/nabielmada/qurate" target="_blank"><img src="https://img.shields.io/badge/REPO-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
-    <a href="https://dorahacks.io/hackathon/fourmemeaisprint/buidl" target="_blank"><img src="https://img.shields.io/badge/HACKATHON-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://dorahacks.io/buidl/43265" target="_blank"><img src="https://img.shields.io/badge/HACKATHON-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
     <a href="https://qurate-ai.vercel.app" target="_blank"><img src="https://img.shields.io/badge/IN-DEVELOP%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a>
   </td>
 </tr>
