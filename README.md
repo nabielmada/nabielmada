@@ -40,9 +40,18 @@ Software Engineer | Business System & Mobile Application Specialist
 </h2>
 
 <table align="center">
+  <tr>
+  <td><b>Arctube</b></td>
+  <td>Agentic Economy on Arc - The Agent Economy Built for Sub-Cent Transactions</td>
+  <td>
+    <a href="https://github.com/nabielmada/arctube" target="_blank"><img src="https://img.shields.io/badge/REPO-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://lablab.ai/ai-hackathons/nano-payments-arc" target="_blank"><img src="https://img.shields.io/badge/HACKATHON-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://arctube-ai.vercel.app" target="_blank"><img src="https://img.shields.io/badge/DEVELOP%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a>
+  </td>
+</tr>
 <tr>
   <td><b>Qurate</b></td>
-  <td>Autonomous AI Web3 Payment Agen</td>
+  <td>Four.Meme AI Sprint - Autonomous AI Web3 Payment Agen</td>
   <td>
     <a href="https://github.com/nabielmada/qurate" target="_blank"><img src="https://img.shields.io/badge/REPO-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
     <a href="https://dorahacks.io/buidl/43265" target="_blank"><img src="https://img.shields.io/badge/HACKATHON-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
